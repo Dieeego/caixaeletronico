@@ -12,7 +12,7 @@ Na operação "com cartão", há algumas funções, tais como:
   - Não aceita campo nulo;
   - Avisa quando o saldo da conta corrente ou conta poupança estiver abaixo de R$ 1.000,00;
   - Não permite o saque, transferência, depósito e pegar conta caso o usuario nao tenha o valor na conta;
-  - Para o pagamento de contas, voce terá que colocar quantos meses a conta está em atraso, caso estiver em atraso, será cobrado uma taxa de acordo com os meses que esta em atraso, caso contrario, nao será cobrado nenhuma taxa.
+  - Para o pagamento de contas, voce terá que colocar quantos meses a conta está em atraso, caso estiver em atraso, será cobrado uma taxa de acordo com os meses que esta em atraso, caso contrario, nao será cobrado nenhuma taxa;
   - Na opção "Extrato":
     - Mostra hora e data;
     - Mostra a quantidade o total de saques/depósitos/transferências realizadas na conta poupança e na conta corrente;
